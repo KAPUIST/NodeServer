@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-prac",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "Node Prac",
+  "description": "Complete Node.js Guide",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,8 +18,10 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
-    "mysql2": "^3.6.1",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.17",
+    "mysql2": "^1.6.1",
     "pug": "^2.0.3",
-    "sequelize": "^6.33.0"
+    "sequelize": "^5.0.0-beta.11"
   }
 }
